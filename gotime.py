@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 # coded by gnenius02
 # https://github.com/gngenius02/checkiteminstock/master
