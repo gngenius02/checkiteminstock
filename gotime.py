@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 # coded by gnenius02
-# https://github.com/gngenius02/checkiteminstock/master
+# https://github.com/gngenius02/checkiteminstock
+
 
 import requests, yagmail
 from bs4 import BeautifulSoup
