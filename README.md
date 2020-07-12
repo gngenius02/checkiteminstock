@@ -22,4 +22,12 @@
   python3 gotime.py
   ```
 
+ # Example output to shell
  
+  ```shell
+  checking url https://www.example.com/product/secretprodut0/
+  not in stock moving on
+  not in stock moving on
+  checking url https://www.example.com/product/secretproduct1/
+  in stock sending email
+  ```
